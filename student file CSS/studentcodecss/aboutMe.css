@@ -1,0 +1,34 @@
+header{
+    color: rgb(47, 7, 67);
+    background-color: rgb(33, 118, 174);
+    font-size: 22px;
+    border-radius: 30px;
+}
+
+body{
+    background-color: brown;
+    font-family: Tahoma;
+    font-size: 15px;
+}
+
+div.box{
+    border: 5px rgb(213, 176, 172);
+    width: 1000px;
+    height: 1000px;
+    overflow: auto;
+    position: relative;
+    left: 15%;
+    top: 50px;
+    color: antiquewhite;
+    background-color: rgb(151, 202, 226);
+    box-shadow: 15px;
+}
+
+div.box img{
+    width: 250px;
+    left: 65px;
+}
+
+pre{
+    color: black;
+}

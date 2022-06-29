@@ -1,0 +1,12 @@
+body{
+    background-image: url(/C++\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 60% 58px;
+}
+
+body header{
+    background-color: rgb(38, 38, 133);
+    color: antiquewhite;
+    border-radius: 30px;
+}

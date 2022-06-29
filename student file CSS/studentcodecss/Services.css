@@ -1,0 +1,60 @@
+header{
+    color: rgb(47, 7, 67);
+    background-color: rgb(33, 118, 174);
+    font-size: 22px;
+    border-radius: 30px;
+}
+
+/* body{
+    background-image: url(/C\ image.jpg),url(/C++\ image.jpg),url(/python\ image.jpg),url(/html\ image.jpg),url(/angularjs\ image.jpg),url(/java\ image.jpg),url(/css\ image.jpg),url(/js\ image.jpg),url(/php\ image.jpg),url(/ts\ image.jpg),url(/birthforwrite\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: 150px,150px;
+    background-position: 60% 65px,80% 240px,60% 430px,80% 600px,60% 840px,80% 1090px,60% 1340px,80% 1600px,60% 1880px,80% 2000px,70% 2220px;
+} */
+
+/* body{
+    background-image: url(/birthforwrite\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: 150px,150px;
+    background-position: 50% 2500px;
+} */
+
+body{
+    background-color: brown;
+    /* background-image: url(/forbg2.jpg); */
+    font-family: Tahoma;
+    font-size: 15px;
+}
+
+div.box{
+    border: 5px rgb(213, 176, 172);
+    width: 1000px;
+    height: 1000px;
+    overflow: auto;
+    position: relative;
+    left: 15%;
+    top: 50px;
+    color: antiquewhite;
+    background-color: rgb(9, 9, 9);
+    background-image: url(/forbg2.jpg);
+    box-shadow: 15px;
+}
+
+div.box img{
+    width: 250px;
+    left: 65px;
+    size: 20px;
+}
+
+pre{
+    color: rgb(245, 241, 241);
+    position: absolute;
+    left: 400px;
+}
+
+body footer{
+    color: rgb(6, 6, 6);
+    background-color: rgb(149, 145, 215);
+    font-size: 13px;
+    border-radius: 20px;
+}

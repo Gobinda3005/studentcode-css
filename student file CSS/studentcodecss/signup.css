@@ -1,0 +1,83 @@
+ol{
+    color: rgb(48, 48, 57);
+    /* background-color: black; */
+}
+
+ul{
+    color: rgb(48, 48, 57);
+    /* background-color: black; */
+}
+
+pre{
+    color: rgb(48, 48, 57);
+    /* background-color: black; */
+}
+
+header{
+    color: rgb(47, 7, 67);
+    background-color: rgb(33, 118, 174);
+    font-size: 22px;
+    border-radius: 30px;
+}
+
+a{
+    color: rgb(25, 24, 24);
+}
+
+body{
+    /* background-color: black; */
+    background-image: url(/studentcodecss/birthforwrite.png);
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 5%;
+}
+
+
+ /* html{
+    height: -webkit-fill-available;
+} */
+
+/* body{
+    background-color: black;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    max-width: 1440px;
+    margin: 0 auto;
+    height: -webkit-fill-available;
+} */
+
+/* main{
+    flex: 1;
+    overflow: scroll;
+} */
+
+/* body{
+    background-image: url(/gobindabackground.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 0% 0%;
+    background-position: center;
+    font-size: 16px;
+    height: -webkit-fill-available;
+} */
+
+div.box{
+    border: 5px rgb(213, 176, 172);
+    width: 1000px;
+    height: 1000px;
+    overflow: auto;
+    position: relative;
+    left: 15%;
+    top: 50px;
+    color: antiquewhite;
+    background-color: rgb(151, 202, 226);
+    box-shadow: 15px;
+}
+
+body footer{
+    color: rgb(6, 6, 6);
+    background-color: rgb(149, 145, 215);
+    font-size: 13px;
+    border-radius: 20px;
+}

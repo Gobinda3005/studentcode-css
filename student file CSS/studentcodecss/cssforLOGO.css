@@ -1,0 +1,16 @@
+body{
+    background-image: url(/C\ image.jpg),url(/C++\ image.jpg),url(/python\ image.jpg),url(/html\ image.jpg),url(/angularjs\ image.jpg),url(/java\ image.jpg),url(/css\ image.jpg),url(/js\ image.jpg),url(/php\ image.jpg),url(/ts\ image.jpg),url(/birthforwrite\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: 150px,150px;
+    background-position: 60% 65px,80% 240px,60% 430px,80% 600px,60% 840px,80% 1090px,60% 1340px,80% 1600px,60% 1880px,80% 2000px,70% 2220px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+body header{
+    background-color: rgb(38, 38, 133);
+    color: antiquewhite;
+    border-radius: 30px;
+}

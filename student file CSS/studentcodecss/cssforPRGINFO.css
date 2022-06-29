@@ -1,0 +1,36 @@
+header{
+    color: rgb(47, 7, 67);
+    background-color: rgb(33, 118, 174);
+    font-size: 22px;
+    border-radius: 30px;
+    /* padding: 5px 3px; */
+}
+
+ol{
+    color: rgb(16, 16, 16);
+    /* background-color: black; */
+}
+
+ul{
+    color: rgb(16, 16, 16);
+    /* background-color: black; */
+}
+
+pre{
+    color: rgb(16, 16, 16);
+    /* background-color: black; */
+}
+
+header{
+    color: rgb(47, 7, 67);
+    background-color: rgb(33, 118, 174);
+}
+
+body{
+    /* background-image: url(/lasthope\ background.png);
+    background-repeat: no-repeat; */
+    background-color: rgb(168, 104, 104);
+    background-size: 100% 100%;
+    background-position: 0% 0%;
+    background-position: center;
+}

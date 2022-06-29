@@ -1,0 +1,96 @@
+/* nav{
+    background-color: black;
+}
+
+ul{
+    overflow: auto;
+}
+
+nav li{
+    float: left;
+    list-style: none;
+    /* margin: 13px 20px; */
+    /* margin-top: 25px;
+    margin-bottom: 1px;
+    margin-inline: 1px; */
+
+nav li a{
+    padding: 20px 13px;
+    text-decoration: none;
+    color: aqua;
+}
+
+nav{
+    background-color: rgb(214, 192, 192);
+    border-radius: 30px;
+}
+nav ul{
+    overflow: auto;
+}
+nav li{
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+}
+nav li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: rgb(7, 7, 17);
+}
+nav{
+    margin: 15px 15px 15px 15px;
+}
+div input {
+    float: right;
+    border: 2px solid black;
+    padding: 12px 45px;
+    border-radius: 30px;
+}
+
+body header{
+    background-color: rgb(38, 38, 133);
+    color: antiquewhite;
+    border-radius: 30px;
+}
+
+body{
+    background-image: url(/studentcodecss/birthforwrite.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: 5%;
+}
+
+/* main nav li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: rgb(7, 7, 17);
+    margin: 15px 15px 15px 15px;
+} */
+
+main nav li a{
+    padding: 20px 13px;
+    text-decoration: none;
+    color: aqua;
+}
+
+main nav{
+    background-color: rgb(214, 192, 192);
+    border-radius: 30px;
+}
+main nav ul{
+    overflow: auto;
+}
+main nav li{
+    float: left;
+    list-style: none;
+    margin: 3px 7px;
+}
+main nav li a{
+    padding: 3px 3px;
+    text-decoration-style: none;
+    color: rgb(7, 7, 17);
+}
+main nav{
+    margin: 500px 500px 15px 15px;
+    float: left;
+}
